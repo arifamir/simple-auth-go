@@ -1,4 +1,4 @@
-# Simple Authentation and books management with GoFiber #
+# Simple authentication and books management with GoFiber #
 
 Simple authentication system with gofiber.
 
